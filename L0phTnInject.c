@@ -7,8 +7,8 @@
 *                                                     *  
 *******************************************************
 
-Something that I wrote in my free time....
-Using any part of this code for malicious purposes is expressly forbidden.
+//Something that I wrote in my free time....
+//Using any part of this code for malicious purposes is expressly forbidden.
 
 
 
