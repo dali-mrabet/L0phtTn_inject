@@ -1,7 +1,7 @@
 *******************************************************
 * written by : Dali Mrabet                            *
 * facebook :   https://www.facebook.com/dali.mrabet.3 *
-* Blog :       http://l0phttn.blogspot.com/           *
+* Blog :       http://dalimrabet.blogspot.com/           *
 * Gr33tz to:   Mohamed Ettayeb                        *
 *              Anis Ben Saleh                         *
 *                                                     *  
